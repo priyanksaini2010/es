@@ -1,0 +1,21 @@
+{
+    "name": "standardization",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "job-title": "./bin/index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "boxen": "^4.0.0",
+        "chalk": "^2.4.2",
+        "string-similarity": "^4.0.4",
+        "underscore": "^1.13.2",
+        "yargs": "^13.2.4"
+    }
+}

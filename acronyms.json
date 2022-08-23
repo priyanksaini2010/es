@@ -1,0 +1,94 @@
+{
+    "acronyms": [
+        {
+            "sr": "senior"
+        },
+        {
+            "evp": "executive vice president"
+        },
+        {
+            "jr": "junior"
+        },
+        {
+            "ux": "user experience"
+        },
+        {
+            "ui": "user interface"
+        },
+        {
+            "pm": "project manager"
+        },
+        {
+            "dev": "developer"
+        },
+        {
+            "vp": "vice president"
+        },
+        {
+            "qa": "quality assurance"
+        },
+        {
+            "eng": "engineer"
+        },
+        {
+            "ceo": "chief executive officer"
+        },
+        {
+            "coo": "chief operating officer"
+        },
+        {
+            "cfo": "chief financial officer"
+        },
+        {
+            "cpa": "certified public accountant"
+        },
+        {
+            "dir": "director"
+        },
+        {
+            "exec": "executive"
+        },
+        {
+            "fin": "finance"
+        },
+        {
+            "ld": "lead"
+        },
+        {
+            "mktg": "marketing"
+        },
+        {
+            "pt": "physical therapist"
+        },
+        {
+            "pa": "physicians assistant"
+        },
+        {
+            "rn": "registered nurse"
+        },
+        {
+            "qc": "quality control"
+        },
+        {
+            "reg": "regional"
+        },
+        {
+            "sys": "system"
+        },
+        {
+            "temp": "temporary"
+        },
+        {
+            "ui/ux": "user experience"
+        },
+        {
+            "cx": "customer experience"
+        },
+        {
+            "fte": "full-time employee"
+        },
+        {
+            "pt": "part-time"
+        }
+    ]
+}

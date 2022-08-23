@@ -1,0 +1,5 @@
+{
+    "job_type": [
+        "part-time", "full-time", "contract", "seasonal", "fixed", "temporary"
+    ]
+}

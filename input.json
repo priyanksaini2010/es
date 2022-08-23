@@ -1,0 +1,50 @@
+{
+    "project_id": "string",
+    "commited_design_capacity": 0.3,
+    "max_deviation": 0.1,
+    "sizing_values": [{
+            "label": "Small",
+            "days_min": 1,
+            "days_max": 10
+        },
+        {
+            "label": "Medium",
+            "days_min": 11,
+            "days_max": 15
+        },
+        {
+            "label": "Large",
+            "days_min": 16,
+            "days_max": 40
+        },
+        {
+            "label": "Extra Large",
+            "days_min": 41,
+            "days_max": 60
+        },
+        {
+            "label": "Extra Extra Large",
+            "days_min": 61,
+            "days_max": null
+        }
+    ],
+    "start_date": "2022-07-21",
+    "current_date": "2022-09-22",
+    "calculated_delivery_date": "2022-08-21",
+    "all_tasks": [{
+            "task_id": "string",
+            "task_status": "complete",
+            "task_time": 6
+        },
+        {
+            "task_id": "string",
+            "task_status": "in progress",
+            "task_time": 6
+        },
+        {
+            "task_id": "string",
+            "task_status": "Not started",
+            "task_time": 6
+        }
+    ]
+}

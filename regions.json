@@ -1,0 +1,22 @@
+{
+    "regions": [
+        {
+            "emea": "europe middle east africa"
+        },
+        {
+            "na": "north america"
+        },
+        {
+            "namer": "north america"
+        },
+        {
+            "latam": "latin america"
+        },
+        {
+            "apac": "asia pacific"
+        },
+        {
+            "namer": "north america"
+        }
+    ]
+}
